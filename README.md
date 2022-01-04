@@ -2,8 +2,8 @@
 - I am computer Science Student
 - 🌱 Currently Learning JavaScript and React.
 - I am interested in exploring CS future 
-and making the world better place by participating in it. ( Dialogues from 'Silicon valley' 😂😅 )
-- You can contact me on Email: goswamikrunal8571865@gmail.com
+and making the world better place by participating in it.
+- You can contact me on Email: krunalgoswami13579@gmail.com
 
 
 <!---
