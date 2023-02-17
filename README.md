@@ -1,8 +1,6 @@
-- 👋 Hi, My name is Krunal Goswami
 - I am a software engineer.
 - 🌱 Currently Learning typescript and Angular/React.
-- I am interested in exploring the digital tech changes
-- You can contact me on Email: krunal.pratapgiri.goswami@gmail.com
+- LinkedIn : https://www.linkedin.com/in/krunal-goswami/
 
 
 <!---
