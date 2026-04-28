@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Krunal  
 ### **Senior Software Developer | Backend Specialist | .NET Enthusiast**
 
-I’m a passionate backend developer with **3.5+ years of professional experience**, primarily focused on building scalable, secure, and high-performance systems. My expertise lies in the **.NET ecosystem**, and I enjoy designing clean architectures, microservices, and distributed systems.
+I’m a passionate backend developer with **4+ years of professional experience**, primarily focused on building scalable, secure, and high-performance systems. My expertise lies in the **.NET ecosystem**, and I enjoy designing clean architectures, microservices, and distributed systems.
 
 ---
 
